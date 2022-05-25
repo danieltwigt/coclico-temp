@@ -74,25 +74,25 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://raw.githubusercontent.com/openearth/coclicodata/live/current/collection.json",
+      "href": "https://raw.githubusercontent.com/danieltwigt/coclico-temp/main/current/collection.json",
       "type": "application/json",
       "title": "CoCliCo STAC Catalog"
     },
     {
       "rel": "collection",
-      "href": "https://raw.githubusercontent.com/openearth/coclicodata/live/current/deltares-coclico-xssl/collection.json",
+      "href": "https://raw.githubusercontent.com/danieltwigt/coclico-temp/main/current/deltares-coclico-xssl/collection.json",
       "type": "application/json",
       "title": "Extra Storm Surge Level"
     },
     {
       "rel": "parent",
-      "href": "https://raw.githubusercontent.com/openearth/coclicodata/live/current/deltares-coclico-xssl/collection.json",
+      "href": "https://raw.githubusercontent.com/danieltwigt/coclico-temp/main/current/deltares-coclico-xssl/collection.json",
       "type": "application/json",
       "title": "Extra Storm Surge Level"
     },
     {
       "rel": "self",
-      "href": "https://raw.githubusercontent.com/openearth/coclicodata/live/current/deltares-coclico-xssl/deltares-coclico-xssl-mapbox-rp-10-hist/deltares-coclico-xssl-mapbox-rp-10-hist.json",
+      "href": "https://raw.githubusercontent.com/danieltwigt/coclico-temp/main/current/deltares-coclico-xssl/deltares-coclico-xssl-mapbox-rp-10-hist/deltares-coclico-xssl-mapbox-rp-10-hist.json",
       "type": "application/json"
     }
   ],
